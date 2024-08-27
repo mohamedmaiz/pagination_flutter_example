@@ -11,3 +11,5 @@ Pagination is the process of loading data in small chunks rather than all at onc
 
 **𝟯 - 𝗦𝗵𝗼𝘄 𝗮 𝗟𝗼𝗮𝗱𝗶𝗻𝗴 𝗜𝗻𝗱𝗶𝗰𝗮𝘁𝗼𝗿 🔄:** Let users know more content is being loaded.!
 
+
+![Example Video](./pagination example.gif)
